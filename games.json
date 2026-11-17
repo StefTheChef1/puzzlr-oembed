@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://stefthechef1.github.io/puzzlr-oembed",
+  "games": [
+    {
+      "slug": "circuit-25b7f9cc",
+      "game": "circuit",
+      "title": "Circuit",
+      "gameId": "25b7f9cc-4834-4d3a-aae8-67795d3a8a1a",
+      "tenant": "bild"
+    }
+  ]
+}

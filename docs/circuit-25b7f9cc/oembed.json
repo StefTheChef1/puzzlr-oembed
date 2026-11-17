@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "BILD Games",
+  "provider_url": "https://www.bild.de/",
+  "title": "Circuit",
+  "width": 520,
+  "height": 293,
+  "html": "<iframe name=\"puzzlr-circuit-25b7f9cc\" id=\"puzzlr-circuit-25b7f9cc\" src=\"https://game.puzzlr.net/iframe?game=circuit&amp;game-tenant=bild&amp;game-id=25b7f9cc-4834-4d3a-aae8-67795d3a8a1a&amp;game-variant=teaser\" title=\"Circuit\" style=\"width:100%;aspect-ratio:16/9;max-width:520px;margin:0 auto;display:block;border:0\" allow=\"autoplay; clipboard-write; web-share\"></iframe>"
+}
